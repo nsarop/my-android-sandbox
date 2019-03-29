@@ -1,5 +1,6 @@
 ```java
 
+//this activity fetches company dtails from an online mySQL database
 package com.nsaro.www.mobiledirectory;
 
 import android.app.ProgressDialog;
